@@ -61,6 +61,7 @@ Git & GitHub: Version control and collaboration
 
 XAMPP / MySQL Workbench: Local database server for testing
 
+**🎥 [Watch Demo Video](https://drive.google.com/file/d/1isbUWtR7-R7gVWMylsBivdCgytd5hYKx/view?usp=sharing)**
 
 **📌 Project Modules**
 
