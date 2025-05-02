@@ -104,7 +104,7 @@ XAMPP / MySQL Workbench: Local database server for testing
 ![User Module Screenshot](images/bookhotel.png)
 
 **Booked Hotels Details**
-![User Module Screenshot](images/bookedhoteldel.png)
+![User Module Screenshot](images/bookedhotekdel.png)
 
 **View Destinations**
 ![User Module Screenshot](images/destination.png)
@@ -119,7 +119,7 @@ XAMPP / MySQL Workbench: Local database server for testing
 ![User Module Screenshot](images/notepad.png)
 
 **👨‍💻 Author**
-Anand Jha
+**Anand Jha**
 
 
 
