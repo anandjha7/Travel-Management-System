@@ -21,13 +21,13 @@ Thus, a unified platform that manages everything from user interaction to backen
 
 **✨ Applications**
 
-Small & medium travel agencies seeking digital transformation
+* Small & medium travel agencies seeking digital transformation
 
-Tour operators needing structured package management
+* Tour operators needing structured package management
 
-Educational/training projects in software development
+* Educational/training projects in software development
 
-Custom agency management systems in niche tourism sectors (e.g., eco-tours, adventure travel)
+* Custom agency management systems in niche tourism sectors (e.g., eco-tours, adventure travel)
 
 **✅ Advantages**
 
@@ -64,7 +64,62 @@ XAMPP / MySQL Workbench: Local database server for testing
 
 **📌 Project Modules**
 
-1. 🧍 User Registration & Login
-2. Features: Sign up, login, password encryption
-Technologies: Java Swing, JDBC, MySQL
+**Create account**
+![User Module Screenshot](images/createacn.png)
+
+**LogIn**
 ![User Module Screenshot](images/login.png)
+
+**Forget Password and Retrieve**
+![User Module Screenshot](images/forgetpasword.png)
+
+**DashBoard**
+![User Module Screenshot](images/dashboard.png)
+
+**Add Personal Details**
+![User Module Screenshot](images/addperdel.png)
+
+**Update Personal Details**
+![User Module Screenshot](images/updatedtl.png)
+
+**View Personal Details**
+![User Module Screenshot](images/viewperdel.png)
+
+**Delete Personal Details**
+![User Module Screenshot](images/delperdel.png)
+
+**Check Package**
+![User Module Screenshot](images/checkpack.png)
+
+**Book Package**
+![User Module Screenshot](images/bookpack.png)
+
+**View Booked Package**
+![User Module Screenshot](images/viewpack.png)
+
+**View Hotels**
+![User Module Screenshot](images/viewhotel.png)
+
+**Book Hotel**
+![User Module Screenshot](images/bookhotel.png)
+
+**Booked Hotels Details**
+![User Module Screenshot](images/bookedhoteldel.png)
+
+**View Destinations**
+![User Module Screenshot](images/destination.png)
+
+**Payments**
+![User Module Screenshot](images/payment.png)
+
+**Desktop Calculator using Project**
+![User Module Screenshot](images/calculator.png)
+
+**Desktop Notepad using Project**
+![User Module Screenshot](images/notepad.png)
+
+**👨‍💻 Author**
+Anand Jha
+
+
+
